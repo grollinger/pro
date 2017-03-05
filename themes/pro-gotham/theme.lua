@@ -64,11 +64,11 @@ theme.tasklist_bg_urgent            = "png:" .. theme.icons .. "panel/tasklist/u
 theme.tasklist_fg_focus             = "#addedb"
 theme.tasklist_fg_urgent            = "#99d1ce"
 theme.tasklist_fg_normal            = "#99d1ce"
-theme.tasklist_floating             = ""
-theme.tasklist_sticky               = ""
-theme.tasklist_ontop                = ""
-theme.tasklist_maximized_horizontal = ""
-theme.tasklist_maximized_vertical   = ""
+-- theme.tasklist_floating             = ""
+-- theme.tasklist_sticky               = ""
+-- theme.tasklist_ontop                = ""
+-- theme.tasklist_maximized_horizontal = ""
+-- theme.tasklist_maximized_vertical   = ""
 
 -- | Widget | --
 
